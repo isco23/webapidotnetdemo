@@ -6,3 +6,5 @@
 /.vs
 /WebApiDotNetDemo/WebApiDotNetDemo/obj/Debug
 /WebApiDotNetDemo/WebApiDotNetDemo/bin
+/WebApiDotNetDemo/DataAccess/bin/Debug
+/WebApiDotNetDemo/DataAccess/obj/Debug
